@@ -9,10 +9,10 @@ export async function createContractObject() {
 
   // create the contract object using the ABI and contract address
   const contract = new ethers.Contract(
-    '0x63B2F9b1432D4128ceE6F843177ffe05114b5c95',
+    "0x65D6b6833631297fcbF531ac98E4ADbe53C2aB48",
     StockBet.abi,
-    signer,
-  )
+    signer
+  );
 
   return contract
 }

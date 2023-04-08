@@ -20,7 +20,9 @@
     "@truffle/hdwallet-provider": "^1.7.0",
     "bignumber.js": "^9.1.1",
     "chart.js": "^3.7.1",
+    "dotenv": "^16.0.3",
     "ethers": "^5.7.2",
+    "ganache": "^7.7.7",
     "magic-sdk": "^8.1.0",
     "next": "12.1.0",
     "react": "17.0.2",
@@ -29,6 +31,7 @@
     "react-hot-toast": "^2.4.0",
     "react-icons": "^4.3.1",
     "react-modal": "^3.16.1",
+    "truffle": "^5.8.1",
     "truncate-eth-address": "^1.0.2",
     "wagmi": "^0.11.6"
   },
